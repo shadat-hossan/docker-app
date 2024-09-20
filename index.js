@@ -20,6 +20,11 @@ app.get("/", (req, res) => {
             naem: "Rohim Mia",
             age: 30
         },
+        {
+            id: 3,
+            naem: "Jado Mia",
+            age: 54
+        },
     ])
 })
 
